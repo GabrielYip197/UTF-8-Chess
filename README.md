@@ -5,14 +5,14 @@ A simple, Windows-terminal based chess game that implements basic two-player con
 
 ## Controls
 
-WASD/Arrow Keys - Move
-Spacebar/Enter - Select
-Backspace - Undo move
-Esc - Back/Quit
-F5 key - Export the current game's move history to a Notepad file
-
-"Player 1" (White) is controlled by WASD/Spacebar
-"Player 2" (Black) is controlled by Arrow Keys/Enter
+- WASD/Arrow Keys - Move
+- Spacebar/Enter - Select
+- Backspace - Undo move
+- Esc - Back/Quit
+- F5 key - Export the current game's move history to a Notepad file
+###
+- "Player 1" (White) is controlled by WASD/Spacebar
+- "Player 2" (Black) is controlled by Arrow Keys/Enter
 
 ### Options
 Toggle Turn Lockout:
