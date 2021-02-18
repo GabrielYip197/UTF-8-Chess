@@ -1,6 +1,7 @@
 # UTF-8-Chess
 A simple, Windows-terminal based chess game that implements basic two-player controls and graphical colored UTF-8 glyphs in lieu of simple ASCII characters.
 
+![UTF-8 Chess](./initial.png)
 
 ## Controls
 
@@ -24,6 +25,8 @@ Pawn Glyph Width:
 
 #
 I put this project together over summer, intending to replicate a similar experience to Windows 7's chess, using UTF-8 glyphs instead of the common ASCII characters. I had been fiddling around the Windows console, testing with ANSI escape codes to modify colors in the console. I decided to leave the color scheme as the default 16; though I could modify it, I experienced some issues with the console settings not properly resetting, interfering with normal terminal usage. 
+
+![UTF-8 Chess](./sample%20gameplay.png)
 
 ## Implemented Features
 - [x] Two player controls
