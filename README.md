@@ -24,7 +24,7 @@ Pawn Glyph Width:
 +1 - I had a friend to playtest and he noticed that his pawn glyphs were only half the width they were supposed to be (1 character length, instead of 2), so this fixes that unknown issue.
 
 #
-I put this project together over summer, intending to replicate a similar experience to Windows 7's chess, using UTF-8 glyphs instead of the common ASCII characters. I had been fiddling around the Windows console, testing with ANSI escape codes to modify colors in the console. I decided to leave the color scheme as the default 16; though I could modify it, I experienced some issues with the console settings not properly resetting, interfering with normal terminal usage. 
+I put this project together over summer, intending to replicate a similar experience to Windows 7's chess, using UTF-8 glyphs instead of the common ASCII characters. I had been fiddling around the Windows console, testing with ANSI escape codes to modify colors in the console. I decided to leave the color scheme as the default 16; though while I could modify it, I experienced some issues with the console settings not properly resetting, interfering with normal terminal usage. 
 
 ![UTF-8 Chess](./sample%20gameplay.png)
 
