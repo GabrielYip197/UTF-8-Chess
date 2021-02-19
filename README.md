@@ -15,12 +15,12 @@ A simple, Windows-terminal based chess game that implements basic two-player con
 - "Player 2" (Black) is controlled by Arrow Keys/Enter
 
 ### Options
-Toggle Turn Lockout:
-OFF (default) - Does not restrict Player 1's controls from moving Player 2's pieces and vice versa, good for testing and debugging
+Toggle Turn Lockout:  
+OFF (default) - Does not restrict Player 1's controls from moving Player 2's pieces and vice versa, good for testing and debugging  
 ON - Locks out each Player's controls to prevent each other from moving during the other's turn
 
-Pawn Glyph Width:
-+0 (default) - Pawn glyphs appear normally spaced, at least on my end
+Pawn Glyph Width:  
++0 (default) - Pawn glyphs appear normally spaced, at least on my end  
 +1 - I had a friend to playtest and he noticed that his pawn glyphs were only half the width they were supposed to be (1 character length, instead of 2), so this fixes that unknown issue.
 
 #
